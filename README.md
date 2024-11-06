@@ -12,11 +12,4 @@ Os pedidos chegam em uma sequência contínua e devem ser processados por ordem 
 - Clientes que cancelam um pedido devem ser removidos da lista de pedidos pendentes
 - Em determinados momentos, o gerente pode querer visualizar os pedidos em espera sem removê-los do sistema
 
-***
-
-## Atividade 02: 
-
-Realizar implementação de uma estrutura de dados do tipo sequencial: 
-
-Lista, Fila, Pilha ou Deques
 
