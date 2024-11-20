@@ -10,9 +10,6 @@ Escolha uma das estruturas abaixo e desenvolva sua implementação com base nas 
 - Pilhas
 - Deques
 
--> **Estrutura escolhida**: *Lista*. <br>
--> **Implementação**: *Lista de Mercado sistematizada com as funções de Listar tudo, Adicionar item, Remover item pelo ID e Sair.*
-
 ## Atividade 02:
 
 Você está desenvolvendo um sistema de gerenciamento de pedidos de uma cafeteria, e foi escalado para criar a regra de negócio do coração da aplicação.
@@ -26,21 +23,20 @@ Os pedidos chegam em uma sequência contínua e devem ser processados em ordem d
 ### Questões:
 
 1. Escreva em documento no formato markdown defendendo sua escolha sobre a estrutura de dados a ser utilizada para o problema.
-
 2. Você deve criar uma classe de negócio que seja capaz de executar as funcionalidades abaixo:
-
 - Adicionar um novo pedido.
 - Processar o próximo pedido.
 - Visualizar os pedidos na fila sem removê-los.
 - Remover um pedido cancelado.
 - Atualizar a prioridade do pedido na fila.
 
--> **Estrutura escolhida**: *Lista*. <br>
--> **Implementação**:
-
 ## Atividade 03:
 
 Converter o Grafo e a Árvore binária para a forma de implementação: Matrizes.
+
+## Atividade 04:
+
+Implementar a busca em largura nos algoritmos disponíveis: Grafo e Árvore Binária
 
 
 
