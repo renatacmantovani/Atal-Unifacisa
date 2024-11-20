@@ -38,4 +38,10 @@ Os pedidos chegam em uma sequência contínua e devem ser processados em ordem d
 -> **Estrutura escolhida**: *Lista*. <br>
 -> **Implementação**:
 
+## Atividade 03:
+
+Converter o Grafo e a Árvore binária para a forma de implementação: Matrizes.
+
+
+
 
